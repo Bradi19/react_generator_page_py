@@ -1,0 +1,1 @@
+# react_generator_page_py
